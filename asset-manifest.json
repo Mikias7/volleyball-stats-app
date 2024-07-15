@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/volleyball-stats-app/static/css/main.33fdb895.css",
+    "main.js": "/volleyball-stats-app/static/js/main.3c015215.js",
+    "static/js/453.8718dbb1.chunk.js": "/volleyball-stats-app/static/js/453.8718dbb1.chunk.js",
+    "index.html": "/volleyball-stats-app/index.html",
+    "main.33fdb895.css.map": "/volleyball-stats-app/static/css/main.33fdb895.css.map",
+    "main.3c015215.js.map": "/volleyball-stats-app/static/js/main.3c015215.js.map",
+    "453.8718dbb1.chunk.js.map": "/volleyball-stats-app/static/js/453.8718dbb1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.33fdb895.css",
+    "static/js/main.3c015215.js"
+  ]
+}
